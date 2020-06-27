@@ -4,7 +4,8 @@ This repository includes the MATLAB implementation of the Hybrid M-IHS variants 
 ## Packages for full functionality
 The followings are needed to create example problems and solving them by using conventional hybrid methods such as Hybrid LSQR
   * [IR Tools](https://github.com/jnagy1/IRtools)
-  * [AIR Tools II](https://github.com/jakobsj/AIRToolsII)
+  * [AIR Tools II](https://github.com/jakobsj/AIRToolsII) <br />
+  
 The following is needed for C-based implementation of the Gram-Schmidt procedure
   * [PROPACK](http://sun.stanford.edu/~rmunk/PROPACK/)
   
